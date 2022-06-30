@@ -1,6 +1,7 @@
 # Detective Boys walkie talkie pin badge
 Walkie talkie pin badge from the Detective Conan anime series using a custom PCB and an ATMEGA328P (Arduino) microcontroller.		
 Integrated rechargable battery, battery lasts around 4-5 hours and can be charged in one hour using any USB-C cable.
+If you want to mount this circuit you can order the boards here: https://www.pcbway.com/project/shareproject/Detective_Boys_walkie_talkie_badge_fdb4029b.html
 
 ## How to use
 To use the walkie talkie plug any headphones with microphone into the 3.5mm audio jack, then flick the switch on the left side of the board and the LED will light up,
