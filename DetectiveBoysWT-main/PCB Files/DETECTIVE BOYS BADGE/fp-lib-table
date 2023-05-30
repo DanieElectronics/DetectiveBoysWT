@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "detective_boys")(type "KiCad")(uri "${KIPRJMOD}/detective_boys.pretty")(options "")(descr ""))
-  (lib (name "media_files")(type "KiCad")(uri "${KIPRJMOD}/media_files.pretty")(options "")(descr ""))
-)
