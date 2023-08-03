@@ -5,8 +5,6 @@ Integrated rechargable battery, can be charged using any USB-C cable and USB pow
 This repository includes the fabrication files for mounting the boards and assembling the components (gerber files, bill of materials, pick and place), as long as the code used for the microcontroller.
 Keep in mind there are external components to be mounted/soldered as the battery or radio module.
 
-If you want to replicate this device you can follow this tutorial: (Work in progress...)
-
 ## How to use
 To use the walkie talkie plug any headphones with microphone into the 3.5mm audio jack, then flick the switch on the left side of the board and the LED will light up.
 Press and hold the button on the board to transmit audio, all the near walkie talkies will receive and play the audio.
